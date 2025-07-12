@@ -10,6 +10,7 @@ A lightweight Bash tool to **scan, detect, and fix insecure file and directory p
 ## 📚 Table of Contents
 - [Features](#-features)
 - [Usage](#-usage)
+- [Demo/Video](#-usage)
 - [Screenshots](#-screenshots)
 - [Author & Links](#-author--links)
 - [License](#-license)
@@ -48,6 +49,15 @@ A lightweight Bash tool to **scan, detect, and fix insecure file and directory p
 ./permission_audit.sh --target-dir /path --fix --verbose
 
 ```
+
+---
+
+## 🎥 Video Tutorial
+
+Learn how to install, use, and get the most out of this tool in this full walkthrough video:
+
+📺 [Watch on YouTube](https://youtube.com/watch?v=YOUR_VIDEO_ID)
+
 
 ## 📸 Screenshots
 
