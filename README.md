@@ -68,8 +68,8 @@ Displays how much storage is consumed by each user on the system.
 ![Disk Usage](assets/diskusage.png)
 
 
-
-## 🌐 Connect with me
+## 👨‍💻 Author & Links
+Created with ❤️ by Diptanshu Dhawan
 
 <a href="https://www.youtube.com/@HackWithDD" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="30" style="margin-right: 10px;" />
@@ -84,6 +84,7 @@ Displays how much storage is consumed by each user on the system.
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" />
 </a>
 
-
+## 📄 License
+MIT License – free to use, modify, and share 🙌
 
 
