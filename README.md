@@ -10,8 +10,8 @@ A lightweight Bash tool to **scan, detect, and fix insecure file and directory p
 ## 📚 Table of Contents
 - [Features](#-features)
 - [Usage](#-usage)
-- [Test Environment Setup](#-usage)
-- [Demo/Video](#-usage)
+- [Test Environment Setup](#-Test)
+- [Demo/Video](#-Video)
 - [Screenshots](#-screenshots)
 - [Author & Links](#-author--links)
 - [License](#-license)
