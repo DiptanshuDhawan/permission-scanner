@@ -57,18 +57,6 @@ Quick overview of available flags and usage instructions.
 
 ---
 
-### 🧪 Dry-Run Mode (Default)
-By default, the tool runs in dry-run mode to preview risky files/directories without making any changes.
-![Dry Run](assets/dryrun.png)
-
----
-
-### 🛠️ Fix Mode (`--fix`)
-Applies secure permissions to the flagged items after dry-run confirmation.
-![Fix Mode](assets/fix.png)
-
----
-
 ### 📁 Log Output
 Every scan is logged with a timestamp under `/var/log/permission_audit`.
 ![Log File](assets/log.png)
@@ -92,7 +80,7 @@ Displays how much storage is consumed by each user on the system.
 <a href="https://x.com/DhawanDiptanshu" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" style="margin-right: 10px;" />
 </a>
-<a href="www.linkedin.com/in/diptanshudhawan" target="_blank">
+<a href="https://linkedin.com/in/diptanshudhawan" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" />
 </a>
 
