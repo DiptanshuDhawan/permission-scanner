@@ -49,6 +49,35 @@ A lightweight Bash tool to **scan, detect, and fix insecure file and directory p
 
 ```
 
+## 📸 Screenshots
+
+### 🧾 Help Menu (`--help`)
+Quick overview of available flags and usage instructions.
+![Help Menu](assets/help.png)
+
+---
+
+### 🧪 Dry-Run Mode (Default)
+By default, the tool runs in dry-run mode to preview risky files/directories without making any changes.
+![Dry Run](assets/dryrun.png)
+
+---
+
+### 🛠️ Fix Mode (`--fix`)
+Applies secure permissions to the flagged items after dry-run confirmation.
+![Fix Mode](assets/fix.png)
+
+---
+
+### 📁 Log Output
+Every scan is logged with a timestamp under `/var/log/permission_audit`.
+![Log File](assets/log.png)
+
+---
+
+### 📊 Disk Usage by User
+Displays how much storage is consumed by each user on the system.
+![Disk Usage](assets/diskusage.png)
 
 
 
