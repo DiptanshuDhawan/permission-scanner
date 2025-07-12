@@ -60,10 +60,18 @@ Run this script to generate fake test files, folders, and insecure permissions:
 
 ```bash
 cd test-env/
-chmod +x generate-test-files.sh
-sudo ./generate-test-files.sh
+chmod +x setup_test_env.sh
+sudo bash setup_test_env.sh
 ```
+>⚠️ Only run this on test environments. It creates insecure files and may create test users.
 
+This is perfect for:
+
+- Practicing how the scanner works
+
+- Demonstrations or live sessions
+
+- Learning about Linux permission misconfigs
 ---
 
 ## 🎥 Video Tutorial
