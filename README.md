@@ -9,7 +9,7 @@ A lightweight Bash tool to **scan, detect, and fix insecure file and directory p
 
 ## 📚 Table of Contents
 - [Features](#-features)
-- [Usage](#-usage)
+- [Usage](#-Usage)
 - [Test Environment Setup](#-Test)
 - [Demo/Video](#-Video)
 - [Screenshots](#-screenshots)
@@ -50,7 +50,7 @@ A lightweight Bash tool to **scan, detect, and fix insecure file and directory p
 ./permission_audit.sh --target-dir /path --fix --verbose
 
 ```
-
+---
 
 ## 🧪 Test Environment Setup
 
@@ -80,25 +80,26 @@ Learn how to install, use, and get the most out of this tool in this full walkth
 
 📺 [Watch on YouTube](https://youtube.com/watch?v=YOUR_VIDEO_ID)
 
-
+---
 ## 📸 Screenshots
 
 ### 🧾 Help Menu (`--help`)
 Quick overview of available flags and usage instructions.
 ![Help Menu](assets/help.png)
 
----
+
 
 ### 📁 Log Output
 Every scan is logged with a timestamp under `/var/log/permission_audit`.
 ![Log File](assets/log.png)
 
----
+
 
 ### 📊 Disk Usage by User
 Displays how much storage is consumed by each user on the system.
 ![Disk Usage](assets/diskusage.png)
 
+---
 
 ## 👨‍💻 Author & Links
 Created with ❤️ by Diptanshu Dhawan
