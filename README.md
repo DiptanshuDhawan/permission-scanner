@@ -10,6 +10,7 @@ A lightweight Bash tool to **scan, detect, and fix insecure file and directory p
 ## 📚 Table of Contents
 - [Features](#-features)
 - [Usage](#-usage)
+- [Test Environment Setup](#-usage)
 - [Demo/Video](#-usage)
 - [Screenshots](#-screenshots)
 - [Author & Links](#-author--links)
@@ -48,6 +49,19 @@ A lightweight Bash tool to **scan, detect, and fix insecure file and directory p
 # Verbose + Fix
 ./permission_audit.sh --target-dir /path --fix --verbose
 
+```
+
+
+## 🧪 Test Environment Setup
+
+Want to try out this tool without risking real data?
+
+Run this script to generate fake test files, folders, and insecure permissions:
+
+```bash
+cd test-env/
+chmod +x generate-test-files.sh
+sudo ./generate-test-files.sh
 ```
 
 ---
